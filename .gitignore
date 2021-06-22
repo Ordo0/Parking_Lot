@@ -1,0 +1,144 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Parking Lot/task/out/test/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/Data class/equals() check/out/
+/Topics/Data class/equals() check/out/production/classes/
+/Topics/Declaring functions/Comparing sums/out/
+/Topics/Declaring functions/Comparing sums/out/production/classes/
+/Topics/Declaring functions/Division/out/
+/Topics/Declaring functions/Division/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/Declaring functions/Theory/out/
+/Topics/Declaring functions/Theory/out/production/classes/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/production/classes/
+/Topics/Default arguments/Print Username/out/
+/Topics/Default arguments/Print Username/out/production/classes/
+/Topics/For loop and arrays/Check the numbers/out/
+/Topics/For loop and arrays/Check the numbers/out/production/classes/
+/Topics/For loop and arrays/Individual taxes/out/
+/Topics/For loop and arrays/Individual taxes/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/For loop and arrays/Just checking/out/
+/Topics/For loop and arrays/Just checking/out/production/classes/
+/Topics/For loop and arrays/Right Rotation/out/
+/Topics/For loop and arrays/Right Rotation/out/production/classes/
+/Topics/For loop and arrays/Theory/out/
+/Topics/For loop and arrays/Theory/out/production/classes/
+/Topics/For loop and arrays/Triples/out/
+/Topics/For loop and arrays/Triples/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/For loop and ranges/The product of numbers from a to b/out/
+/Topics/For loop and ranges/The product of numbers from a to b/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/Theory/out/
+/Topics/For loop and ranges/Theory/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/Getting substrings/Theory/out/
+/Topics/Getting substrings/Theory/out/production/classes/
+/Topics/If expression/Boxes/out/
+/Topics/If expression/Boxes/out/production/classes/
+/Topics/If expression/Check a number is positive/out/
+/Topics/If expression/Check a number is positive/out/production/classes/
+/Topics/If expression/Number dividers/out/
+/Topics/If expression/Number dividers/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/If expression/Queens/out/
+/Topics/If expression/Queens/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/Inheritance/House inheritance/out/
+/Topics/Inheritance/House inheritance/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/
+/Topics/Jumps and returns/Placement of ships/out/
+/Topics/Jumps and returns/Placement of ships/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/List/Even numbers/out/
+/Topics/List/Even numbers/out/production/classes/
+/Topics/List/Indexes/out/
+/Topics/List/Indexes/out/production/classes/
+/Topics/List/Sum of numbers/out/
+/Topics/List/Sum of numbers/out/production/classes/
+/Topics/List/Theory/out/
+/Topics/List/Theory/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Car speed/out/
+/Topics/Named arguments/Car speed/out/production/classes/
+/Topics/Null safety/Safe round/out/
+/Topics/Null safety/Safe round/out/production/classes/
+/Topics/Objects/Playing with time/out/
+/Topics/Objects/Playing with time/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Ranges/Between two numbers/out/
+/Topics/Ranges/Between two numbers/out/production/classes/
+/Topics/Ranges/Job/out/
+/Topics/Ranges/Job/out/production/classes/
+/Topics/Ranges/Theory/out/
+/Topics/Ranges/Theory/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Repeating blocks/Theory/out/
+/Topics/Repeating blocks/Theory/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/Taming exceptions/Handle string exception/out/
+/Topics/Taming exceptions/Handle string exception/out/production/classes/
+/Topics/The try-catch statement/Integer division/out/
+/Topics/The try-catch statement/Integer division/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
+/Topics/The try-catch-finally statement/The Answer is/out/
+/Topics/The try-catch-finally statement/The Answer is/out/production/classes/
+/Topics/When expression/From string to a number/out/
+/Topics/When expression/From string to a number/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/
+/Topics/When expression/Theory/out/
+/Topics/When expression/Theory/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
